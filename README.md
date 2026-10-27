@@ -1,1 +1,4 @@
-# everybody-codes-2026
+# Everybody Codes 2026
+
+- Language: C++
+- Quest Link: https://everybody.codes/event/2026/quests
